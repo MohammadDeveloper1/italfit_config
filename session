@@ -1,0 +1,8 @@
+{
+   "base_url":"http://80.210.38.142:5002",
+   "app_expiration_date":"2028-01-01T00:00",
+   "offline_mode_expiration_date":"2027-01-01T00:00",
+   "latest_version_code":24,
+   "latest_version_name":"3.0.2",
+   "force_update":false
+}
