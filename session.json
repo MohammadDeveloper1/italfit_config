@@ -6,9 +6,21 @@
    "latest_version_name":"3.0.3",
    "force_update":false,
    "updates_en":[
-      
+      "Improved app design and performance on mobile devices",
+      "Fixed device timer synchronization issues",
+      "Added support for the Shamsi (Persian) calendar",
+      "Display Bluetooth device battery level during workouts",
+      "Update the workout program while exercising",
+      "Adjust rapm-up duration",
+      "Increased the maximum workout program duration",
    ],
    "updates_fa":[
-      
+      "بهبود ظاهر و عملکرد برنامه در گوشی‌های موبایل",
+      "رفع مشکل عدم هماهنگی زمان اجرای دستگاه",
+      "اضافه شدن پشتیبانی از تقویم شمسی",
+      "نمایش میزان شارژ دستگاه بلوتوثی در صفحه تمرین",
+      "امکان به‌روزرسانی برنامه تمرینی هنگام اجرای تمرین",
+      "امکان تنظیم زمان رمپ",
+      "افزایش حداکثر مدت زمان برنامه‌های تمرینی",
    ]
 }
