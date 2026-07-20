@@ -2,8 +2,8 @@
    "base_url":"http://80.210.38.142:5002",
    "app_expiration_date":"2028-01-01T00:00",
    "offline_mode_expiration_date":"2027-01-01T00:00",
-   "latest_version_code":25,
-   "latest_version_name":"3.0.3",
+   "latest_version_code":26,
+   "latest_version_name":"3.0.4",
    "force_update":false,
    "updates_en":[
       "Improved app design and performance on mobile devices",
