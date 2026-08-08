@@ -4,7 +4,7 @@
    "offline_mode_expiration_date":"2027-01-01T00:00",
    "latest_version_code":32,
    "latest_version_name":"3.0.9",
-   "force_update":true,
+   "force_update":false,
    "updates_en":[
       "Improved app design and performance on mobile devices",
       "Fixed device timer synchronization issues",
