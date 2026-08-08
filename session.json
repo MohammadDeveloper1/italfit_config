@@ -2,8 +2,8 @@
    "base_url":"http://80.210.38.142:5002",
    "app_expiration_date":"2028-01-01T00:00",
    "offline_mode_expiration_date":"2027-01-01T00:00",
-   "latest_version_code":31,
-   "latest_version_name":"3.0.8",
+   "latest_version_code":32,
+   "latest_version_name":"3.0.9",
    "force_update":true,
    "updates_en":[
       "Improved app design and performance on mobile devices",
@@ -12,7 +12,8 @@
       "Display Bluetooth device battery level during workouts",
       "Update the workout program while exercising",
       "Adjust ramp-up duration",
-      "Increased the maximum workout program duration"
+      "Increased the maximum workout program duration",
+      "Resolved reported problems"
    ],
    "updates_fa":[
       "بهبود ظاهر و عملکرد برنامه در گوشی‌های موبایل",
@@ -21,6 +22,7 @@
       "نمایش میزان شارژ دستگاه بلوتوثی در صفحه تمرین",
       "امکان به‌روزرسانی برنامه تمرینی هنگام اجرای تمرین",
       "امکان تنظیم زمان رمپ",
-      "افزایش حداکثر مدت زمان برنامه‌های تمرینی"
+      "افزایش حداکثر مدت زمان برنامه‌های تمرینی",
+      "برطرف شدن مشکلات گزارش شده"
    ]
 }
